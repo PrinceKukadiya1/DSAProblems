@@ -1,5 +1,5 @@
 // palindrome or not?
-
+ 
 class Solution {
     public boolean isPalindrome(int x) {
         int sum = 0;
