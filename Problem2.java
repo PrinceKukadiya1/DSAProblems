@@ -1,4 +1,4 @@
-// palindrome or not?
+ // palindrome or not?
  
 class Solution {
     public boolean isPalindrome(int x) {
